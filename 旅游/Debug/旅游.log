@@ -1,0 +1,6 @@
+﻿  definition.c
+c:\users\lw\source\repos\旅游\旅游\definition.c(122): warning C4133: “函数”: 从“char [30]”到“LPCWSTR”的类型不兼容
+c:\users\lw\source\repos\旅游\旅游\definition.c(123): warning C4133: “函数”: 从“char [30]”到“LPCWSTR”的类型不兼容
+c:\users\lw\source\repos\旅游\旅游\definition.c(124): warning C4133: “函数”: 从“char [30]”到“LPCWSTR”的类型不兼容
+c:\users\lw\source\repos\旅游\旅游\definition.c(33): warning C4715: “fuzzyCompare”: 不是所有的控件路径都返回值
+  旅游.vcxproj -> C:\Users\Lw\source\repos\旅游\Debug\旅游.exe
